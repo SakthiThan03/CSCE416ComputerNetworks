@@ -1,3 +1,5 @@
+package Assignment_1;
+
 /*
  * Implementation of the one-way message client in java
  */
