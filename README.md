@@ -1,1 +1,1 @@
-# CSCE416ComputerNetworks
+This includes my assignments from CSCE416: Computer Networks.
